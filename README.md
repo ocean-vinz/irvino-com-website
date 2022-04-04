@@ -12,7 +12,6 @@ Any changes to this repositories will trigger a deployment to the live website u
 ## Technologies
 Project is created with:
 * HTML and CSS
-* AWS S3
 * AWS CloudFront
 * AWS Certificate Manager (TLS/SSL HTTPS)
 * AWS Route53 (DNS Routing)
